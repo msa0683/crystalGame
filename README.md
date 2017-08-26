@@ -18,4 +18,4 @@ Crystal is an interactive Javascript game. HTML pages are dynamically updated wi
 
     - The app will show the number of games the player wins and loses. 
     
-![Hangman Demo](https://giphy.com/gifs/26wdfwj6FPtVwHoXe/html5)
+(https://giphy.com/gifs/26wdfwj6FPtVwHoXe/html5)
