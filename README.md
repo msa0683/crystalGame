@@ -1,18 +1,20 @@
 # crystalGame
 
-1. There will be four crystals displayed as buttons on the page.
+Crystal is an interactive Javascript game. HTML pages are dynamically updated with jQuery.
 
-2. The player will be shown a random number at the start of the game.
+    - Four crystals are displayed on the page as buttons. 
 
-3. When the player clicks on a crystal, it will add a specific amount of points to the player's total score. 
+    - The player will be shown a random number at the start of the game.
 
-4. The player wins if their total score matches the random number from the beginning of the game.
+    - When the player clicks on a crystal, it will add a specific amount of points to the player's         total score. 
 
-5. The player loses if their score goes above the random number.
+    - Player wins if his/her total score matches the random number from the beginning of the game.
 
-6. The game restarts whenever the player wins or loses.
+    - Player loses if his/her score goes above the random number.
 
-     * When the game begins again, the player should see a new random number. Also, all the crystals will have four new hidden values. Of course, the user's score (and score counter) will reset to zero.
+    - The game restarts whenever the player wins or loses.
 
-   * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
+    - When the game begins again, the player should see a new random number. Also, all the crystals         will have four new hidden values. The user's score (and score counter) will reset to zero.
+
+    - The app will show the number of games the player wins and loses. T
 
